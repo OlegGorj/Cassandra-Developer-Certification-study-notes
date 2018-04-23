@@ -1,4 +1,5 @@
 # CQL
+---
 
 **What is it?**
 
@@ -210,3 +211,5 @@ Data modeling – query centric design
 
 - executes a file containing SQL statements
 - SOURCE ‘./myscript.cql’;
+
+---
